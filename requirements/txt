@@ -1,6 +1,5 @@
+streamlit
 pandas
-numpy
-matplotlib
-seaborn
-folium
 requests
+folium
+streamlit-folium
